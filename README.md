@@ -24,7 +24,7 @@
   - Создание **бэкапа текущего Entware** (`/opt`) 📦
   - Сохранение архива на любой смонтированный раздел
   - Автоматическое имя архива:
-    `Entware_backup_<NAME>_<DATE>.tar.gz`
+    `Entware_backup_**<NAME>**_**<DATE>**.tar.gz`
     
     Пример: `Entware_backup_MyRouter_2026-03-05.tar.gz`
 ---
