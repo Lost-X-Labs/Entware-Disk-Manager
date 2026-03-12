@@ -43,7 +43,8 @@
 
 Скрипт запускается в среде **Entware**.  
 Скопируйте и вставьте команду, чтобы запустить Entware Disk Manager:
-```bash
+```
+opkg update && opkg install curl bash && curl -o https://raw.githubusercontent.com/LostGit77/Entware-Disk-Manager/refs/heads/main/entware_disk_manager.sh && bash entware_disk_manager.sh
 ```
 ---
 # 🖥 Главное меню
